@@ -1,0 +1,1 @@
+In the first week of my internship, I was presented to the team that was primarily responsible for designing scalable software solutions, I had to complete the required onboarding duties, and my documents needed to be verified. They began utilizing Agile Methodology to instruct me on advanced topics related to the Software Development Life Cycle.
